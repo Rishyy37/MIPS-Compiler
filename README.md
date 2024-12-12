@@ -43,6 +43,6 @@ The program prints the executed instruction, register values, and memory content
 - Supports a subset of MIPS instructions.
 - Requires binary-encoded input.
 
-## Author
+## Motivation
 Created as a learning tool for MIPS architecture and assembly execution.
 
